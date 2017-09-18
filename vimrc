@@ -72,11 +72,6 @@ Plug 'tomasr/molokai'
 "" Custom bundles
 "*****************************************************************************
 
-" go
-"" Go Lang Bundle
-Plug 'fatih/vim-go', {'do': ':GoInstallBinaries'}
-
-
 " html
 "" HTML Bundle
 Plug 'hail2u/vim-css3-syntax'
